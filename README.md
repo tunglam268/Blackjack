@@ -3,4 +3,4 @@
 ```bash
 go mod tidy
 
-go run main.gogo
+go run main.go
